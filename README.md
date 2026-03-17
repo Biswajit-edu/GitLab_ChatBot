@@ -2,7 +2,7 @@
 
 > An AI-powered chatbot that lets employees and aspiring GitLab employees query the GitLab Handbook and product Direction pages in plain English — built with Gemini 2.5 Flash, FAISS, LangChain, and Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appchatbot-ui90.streamlit.app/)
 
 ---
 
