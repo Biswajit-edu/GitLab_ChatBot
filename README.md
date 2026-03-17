@@ -167,9 +167,6 @@ gitlab-chatbot/
 │   └── secrets.toml.example
 ├── pages/
 │   └── 2_About.py                # Architecture + design decisions page
-├── tests/
-│   ├── test_ingestion.py         # Unit tests for scraper
-│   └── test_chatbot.py           # Unit tests for chatbot helpers
 └── src/
     ├── ingestion.py              # Web scraping (requests + BeautifulSoup)
     ├── vector_store.py           # Custom GeminiEmbeddings + FAISS index
